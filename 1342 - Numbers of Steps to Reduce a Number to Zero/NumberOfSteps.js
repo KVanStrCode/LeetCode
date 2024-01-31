@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+
 function numberOfSteps1(num) {
   let steps = 0;
 
